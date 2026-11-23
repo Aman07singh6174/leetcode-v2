@@ -6,9 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
