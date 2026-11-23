@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2747-count-zero-request-servers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -34,4 +35,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2747-count-zero-request-servers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
