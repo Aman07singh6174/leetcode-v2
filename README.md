@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2747-count-zero-request-servers](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3693-climbing-stairs-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
