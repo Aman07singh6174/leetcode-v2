@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0020-valid-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0020-valid-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3934-smallest-unique-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
