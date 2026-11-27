@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3693-climbing-stairs-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0678-valid-parenthesis-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0678-valid-parenthesis-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aman07singh6174/leetcode-v2/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -171,8 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aman07singh6174/leetcode-v2/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
