@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aman07singh6174/leetcode-v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Aman07singh6174/leetcode-v2/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
